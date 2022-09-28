@@ -2,7 +2,6 @@ from django.core.validators import MinValueValidator
 from django.db import models
 from PIL import Image
 
-# TODO flake8, isort
 
 
 class Item(models.Model):
